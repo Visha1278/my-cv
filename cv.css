@@ -1,0 +1,41 @@
+.{
+    padding: 0px
+    margin:0px;
+    box-sizing: border-box;
+}
+
+.container{
+    border :100% solid blue;
+    display:flex;
+    width: 1000PX;
+}
+
+.leftbox
+{
+    background-color:white;
+    width: 350px;
+    height:200px;
+
+}
+.contact{
+    background-color: skyblue;
+}
+
+.rightbox{
+    background-color: white;
+    width: 100%;
+    padding: 10PX;
+    padding-top:80px;
+}
+
+
+.visha-image
+{
+width:250px;
+height: 200px;
+border-radius: 100%;
+padding-bottom: 10px;
+}
+.name-con{
+    boarder:1px solid black;
+}
